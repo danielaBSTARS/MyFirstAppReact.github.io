@@ -19,7 +19,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 📌 Descripción
 
-Aplicación web de venta de Pollo Asado que permite visualizar productos destacados, gestionar opciones (editar/eliminar) y realizar compras mediante un formulario con datos personales y pago digital.
+Aplicación web de venta de Correas que permite visualizar productos destacados, gestionar opciones (editar/eliminar) y realizar compras mediante un formulario con datos personales y pago digital.
 
 ⭐ Características principales
 
